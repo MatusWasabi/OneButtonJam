@@ -36,3 +36,8 @@ No screenshots for now.
 Just download it from itch.io and extract the file and play.
 
 [Game page](https://wasabiboy.itch.io/bros-reels)
+
+## **Contributors**
+
+- Kan Somchariya - Game Designer
+- Wasabiboy - Game Programmer
