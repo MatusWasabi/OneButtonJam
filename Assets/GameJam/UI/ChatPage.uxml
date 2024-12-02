@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameJam/UI/Chat.uss?fileID=7433441132597879392&amp;guid=db90f5f4d23ea6b44b6787e21721b3f0&amp;type=3#Chat" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:ScrollView name="ChatScrollView" vertical-scroller-visibility="Hidden" style="flex-grow: 1; background-color: rgb(255, 255, 255); display: flex; background-image: url(&quot;project://database/Assets/GameJam/UI/ChatBackground.png?fileID=21300000&amp;guid=9ef6fe30f994bad4583b703511861a74&amp;type=3#ChatBackground&quot;);">
+            <ui:VisualElement name="ChatContent" style="flex-grow: 1; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" />
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>
